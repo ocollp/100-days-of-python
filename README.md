@@ -8,8 +8,8 @@ Below is a day-by-day breakdown of the topics covered:
 
 ### 🐣 Beginner
 
-- [Day 01](day01): Working with Variables in Python to Manage Data
-- [Day 02](day02): Understanding Data Types and How to Manipulate Strings
+- [x] [Day 01](day01): Working with Variables in Python to Manage Data
+- [x] [Day 02](day02): Understanding Data Types and How to Manipulate Strings
 - [Day 03](day03): Control Flow and Logical Operators
 - [Day 04](day04): Randomisation and Python Lists
 - [Day 05](day05): Python Loops
