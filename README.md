@@ -12,8 +12,8 @@ Below is a day-by-day breakdown of the topics covered:
 - [x] [Day 02](day02): Understanding Data Types and How to Manipulate Strings
 - [x] [Day 03](day03): Control Flow and Logical Operators
 - [x] [Day 04](day04): Randomisation and Python Lists
-- [Day 05](day05): Python Loops
-- [Day 06](day06): Python Functions & Karel
+- [x] [Day 05](day05): Python Loops
+- [x] [Day 06](day06): Python Functions & Karel
 - [Day 07](day07): Hangman
 - [Day 08](day08): Function Parameters & Caesar Cipher
 - [Day 09](day09): Dictionaries, Nesting and the Secret Auction
