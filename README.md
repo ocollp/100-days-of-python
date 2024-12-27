@@ -14,8 +14,8 @@ Below is a day-by-day breakdown of the topics covered:
 - [x] [Day 04](day04): Randomisation and Python Lists
 - [x] [Day 05](day05): Python Loops
 - [x] [Day 06](day06): Python Functions & Karel
-- [Day 07](day07): Hangman
-- [Day 08](day08): Function Parameters & Caesar Cipher
+- [x] [Day 07](day07): Hangman
+- [x] [Day 08](day08): Function Parameters & Caesar Cipher
 - [Day 09](day09): Dictionaries, Nesting and the Secret Auction
 - [Day 10](day10): Function Return Values and the Calculator Project
 - [Day 11](day11): Blackjack Capstone Project
