@@ -16,8 +16,8 @@ Below is a day-by-day breakdown of the topics covered:
 - [x] [Day 06](day06): Python Functions & Karel
 - [x] [Day 07](day07): Hangman
 - [x] [Day 08](day08): Function Parameters & Caesar Cipher
-- [Day 09](day09): Dictionaries, Nesting and the Secret Auction
-- [Day 10](day10): Function Return Values and the Calculator Project
+- [x] [Day 09](day09): Dictionaries, Nesting and the Secret Auction
+- [x] [Day 10](day10): Function Return Values and the Calculator Project
 - [Day 11](day11): Blackjack Capstone Project
 - [Day 12](day12): Scope and Namespacing in Python
 - [Day 13](day13): Debugging: How to Find and Fix Errors in your Code
