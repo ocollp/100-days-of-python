@@ -20,8 +20,8 @@ Below is a day-by-day breakdown of the topics covered:
 - [x] [Day 10](day10): Function Return Values and the Calculator Project
 - [x] [Day 11](day11): Blackjack Capstone Project
 - [x] [Day 12](day12): Scope and Namespacing in Python
-- [Day 13](day13): Debugging: How to Find and Fix Errors in your Code
-- [Day 14](day14): Higher Lower Game Project
+- [x] [Day 13](day13): Debugging: How to Find and Fix Errors in your Code
+- [x] [Day 14](day14): Higher Lower Game Project
 
 ### ‍🏋🏼‍♀️️ Intermediate
 
