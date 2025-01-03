@@ -25,8 +25,8 @@ Below is a day-by-day breakdown of the topics covered:
 
 ### ‍🏋🏼‍♀️️ Intermediate
 
-- [Day 15](day15): Local Development Environment Setup & the Coffee Machine Project
-- [Day 16](day16): Object Oriented Programming (OOP)
+- [x] [Day 15](day15): Local Development Environment Setup & the Coffee Machine Project
+- [x] [Day 16](day16): Object Oriented Programming (OOP)
 - [Day 17](day17): The Quiz Project & the Benefits of OOP
 - [Day 18](day18): Turtle Graphics and GUIs
 - [Day 19](day19): Instances, State and Higher Order Functions
