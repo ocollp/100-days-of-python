@@ -31,8 +31,8 @@ Below is a day-by-day breakdown of the topics covered:
 - [x] [Day 18](day18): Turtle Graphics and GUIs
 - [x] [Day 19](day19): Instances, State and Higher Order Functions
 - [x] [Day 20](day20): Build the Snake Game Part 1: Animation & Coordinates
-- [Day 21](day21): Build the Snake Game Part 2: Inheritance & List Slicing
-- [Day 22](day22): Build Pong: The Famous Arcade Game
+- [x] [Day 21](day21): Build the Snake Game Part 2: Inheritance & List Slicing
+- [x] [Day 22](day22): Build Pong: The Famous Arcade Game
 - [Day 23](day23): The Turtle Crossing Capstone Project
 - [Day 24](day24): Files, Directories and Paths
 - [Day 25](day25): Working with CSV Data and the Pandas Library
